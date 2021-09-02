@@ -1,0 +1,24 @@
+[submodule "mj"]
+	path = middleweight-java
+	url = https://github.com/metaborg/mj.agda
+[submodule "ternary"]
+	path = ternary
+	url = https://github.com/ajrouvoet/ternary.agda
+[submodule "sessions"]
+	path = sessions
+	url = git@github.com:ajrouvoet/sessions.agda.git
+[submodule "jvm"]
+	path = jvm
+	url = git@github.com:ajrouvoet/jvm.agda.git
+[submodule "lmr"]
+	path = lmr
+	url = git@github.com:MetaBorgCube/metaborg-lmr.git
+[submodule "ministatix"]
+	path = ministatix
+	url = git@github.com:metaborg/ministatix.hs.git
+[submodule "scala"]
+	path = scala
+	url = git@github.com:MetaBorgCube/scala.mstx.git
+[submodule "java"]
+	path = java
+	url = git@github.com:MetaBorgCube/java.mstx.git
